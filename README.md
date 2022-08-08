@@ -1,7 +1,7 @@
 ## Olá eu sou o victor um amante de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Victortascaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victortascaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victortascaa&show_icons=true&theme=radical)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victortascaa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
