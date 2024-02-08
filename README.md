@@ -1,15 +1,12 @@
 <h1 align="center">Olá, Eu sou o Victor Tasca</h1>
 <h3 align="center">Um amante de Tecnologia</h3>
+<img align="center" alt="Coding" widht="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 - 🌱 Estou aprendendo atualmente **React**
 
 - 💬 Me pergunte sobre **HTML, CSS e JavaScript**
 
 - 📫 Onde me encontrar **www.linkedin.com/in/victor-tasca-013320244/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-tasca-013320244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-tasca-013320244/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
