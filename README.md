@@ -90,20 +90,6 @@ timeline
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=aether-empires&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
 </a>
 </div>
-
-<details>
-<summary><strong>📋 Changelog dos repositórios públicos</strong></summary>
-<br/>
-
-- **projeto_noticias_telegram** — scraping + monitoramento + Telegram para rádios FM (Python)
-- **vaultscore-mvp** / **aether-empires** — experimentos em TypeScript
-- **Betel-APP** — app React Native (projeto de faculdade)
-- **Trabalho-de-Extensão-Python01** — app voluntário para pequena comerciante
-
-</details>
-
-<br/>
-
 ## 💬 Incident response policy
 
 ```text
