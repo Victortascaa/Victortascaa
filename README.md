@@ -1,68 +1,85 @@
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  VT · cloud · iac · automation                              │
-│  Castelo Branco, Portugal                                   │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=status%3A+operational;uptime%3A+9+anos+em+produção;incident+count%3A+0+ambientes+derrubados;deploy%3A+cloud+%2B+iac+%2B+automação" alt="typing" />
 
-# Victor Tasca
+<br/>
 
-### Analista de Cloud & Automação
+# 🟢 victor-tasca `/ status-page`
 
-**Azure · AWS · Oracle Cloud · Terraform · n8n · Python**
+**Analista de Cloud & Automação** — Castelo Branco, PT
+Monitorando infraestrutura crítica desde 2015. Zero downtime aceitável.
 
-*Transformando ideias em código — e infraestrutura em algo previsível.*
-
-[LinkedIn](https://www.linkedin.com/in/victor-tasca) · [GitHub](https://github.com/Victortascaa)
+<a href="https://www.linkedin.com/in/victor-tasca"><img src="https://img.shields.io/badge/LinkedIn-Victor_Tasca-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Victortascaa"><img src="https://img.shields.io/badge/GitHub-Victortascaa-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/status-operational-brightgreen?style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## O diferencial
+## 📟 System Status
 
-A maioria automatiza o que já entende na superfície.  
-Eu venho do outro lado: **sustentei ambientes críticos** (AD, M365, firewall, VPN, SIEM) antes de escrever o primeiro workflow.
-
-Isso muda o resultado.
-
-```text
-antes de automatizar → eu diagnostico
-antes de provisionar → eu penso em IAM, custo e governança
-antes de integrar    → eu mapeio o legado de verdade
+```diff
++ Azure ............... operational
++ AWS .................. operational
++ Oracle Cloud ......... operational
++ Terraform (IaC) ...... operational
++ n8n / automação ...... operational
++ pfSense / VPN ........ operational
++ SIEM (Wazuh) ......... monitoring
+! trabalho manual ...... deprecated — sunset em progresso
 ```
 
-Hoje o foco é **modernizar infraestrutura** e **eliminar trabalho manual** em operações que não podem parar.
+<br/>
 
----
+## 🔍 Root Cause Analysis (por que eu automatizo diferente)
 
-## O que eu faço no dia a dia
+A maioria dos profissionais de automação parte da superfície: veem um processo repetitivo e o transformam em script. Eu não.
 
-| Pilar | Na prática |
-| --- | --- |
-| **Cloud & IaC** | Provisiono e gerencio Azure, Oracle Cloud e AWS com **Terraform** — escalável, versionado, auditável |
-| **Automação** | Workflows em **n8n**, **Python** e **PowerShell** que integram sistemas e cortam latência operacional |
-| **Operações** | Playbooks, documentação de arquitetura e troubleshooting N2/N3 com causa raiz |
-
----
-
-## Stack em inventário
+Antes de escrever a primeira linha de Terraform, eu **sustentei** o que estava por trás — AD, M365, firewall, VPN, SIEM. Isso significa que quando eu automatizo, eu já sei onde o processo pode quebrar, porque já fui eu quem apagou o incêndio às 3h da manhã.
 
 ```text
-CLOUD        Azure · AWS · Oracle Cloud
-IaC          Terraform
-AUTOMATION   n8n · Python · PowerShell
-IDENTITY     Active Directory · Entra ID · Google Workspace · M365
-SECURITY     pfSense · VPN Site-to-Site · Wazuh (SIEM) · Netskope (DLP)
-OPS          troubleshooting N2/N3 · runbooks · governança IAM
+outros:  processo manual → identifica dor → automatiza
+eu:      diagnostico → penso em IAM/custo/governança → aí sim, automatizo
 ```
 
----
+<br/>
 
-## Projetos em destaque
+## 🧰 Stack (component health)
 
+<div align="center">
+
+| Camada | Componentes |
+|---|---|
+| **☁️ Cloud** | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![OCI](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **🏗️ IaC** | ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) |
+| **⚙️ Automação** | ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+| **🔐 Identity** | ![AD](https://img.shields.io/badge/-Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white) ![Entra](https://img.shields.io/badge/-Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![M365](https://img.shields.io/badge/-M365-D83B01?style=flat-square&logo=microsoft365&logoColor=white) ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white) |
+| **🛡️ Security** | ![pfSense](https://img.shields.io/badge/-pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![Wazuh](https://img.shields.io/badge/-Wazuh-3AB7E9?style=flat-square&logo=wazuh&logoColor=white) ![Netskope](https://img.shields.io/badge/-Netskope-00A98F?style=flat-square) |
+
+</div>
+
+<br/>
+
+## 📈 Postmortem: linha do tempo de incidentes resolvidos (a.k.a. carreira)
+
+```mermaid
+timeline
+    title Trajetória — de hands-on a multi-cloud
+    2015 : Hardware & suporte hands-on
+    2022 : TIC · infraestrutura · operações
+    2023 : Suporte global · Azure · M365 · AD
+    2024 : N2/N3 · firewall · SIEM · automação de TI
+    2026 : Cloud & Automação · Terraform · n8n · multi-cloud
+```
+
+> Formação: **Análise e Desenvolvimento de Sistemas** (UniMetrocamp) · Técnico em Manutenção e Suporte (Senac-SP)
+
+<br/>
+
+## 🚀 Deployments em destaque
+
+<div align="center">
 <a href="https://github.com/Victortascaa/projeto_noticias_telegram">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=projeto_noticias_telegram&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
 </a>
@@ -72,9 +89,11 @@ OPS          troubleshooting N2/N3 · runbooks · governança IAM
 <a href="https://github.com/Victortascaa/aether-empires">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=aether-empires&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
 </a>
+</div>
 
 <details>
-<summary><strong>Mais contexto dos repos públicos</strong></summary>
+<summary><strong>📋 Changelog dos repositórios públicos</strong></summary>
+<br/>
 
 - **projeto_noticias_telegram** — scraping + monitoramento + Telegram para rádios FM (Python)
 - **vaultscore-mvp** / **aether-empires** — experimentos em TypeScript
@@ -83,52 +102,34 @@ OPS          troubleshooting N2/N3 · runbooks · governança IAM
 
 </details>
 
----
+<br/>
 
-## Trajetória (versão curta)
+## 💬 Incident response policy
 
 ```text
-2015 ── hardware & suporte hands-on
-2022 ── TIC · infraestrutura · operações
-2023 ── suporte global · Azure · M365 · AD
-2024 ── N2/N3 · firewall · SIEM · automação de TI
-2026 ── Cloud & Automação · Terraform · n8n · multi-cloud
-         ▲ você está aqui
+> não automatizo caos.
+> primeiro estabilizo o ambiente.
+> depois — e só depois — transformo processo em pipeline.
 ```
 
-Formação: **Análise e Desenvolvimento de Sistemas** (UniMetrocamp) · Técnico em Manutenção e Suporte (Senac-SP)
-
----
-
-## Como eu trabalho
-
-> Não automatizo caos.  
-> Primeiro estabilizo o ambiente — depois transformo processo em pipeline.
-
-Se você precisa de alguém que **liga Cloud, IaC e automação** sem perder o chão de infraestrutura, vamos conversar.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victor-tasca">
-    <img src="https://img.shields.io/badge/LinkedIn-Victor_Tasca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Victortascaa">
-    <img src="https://img.shields.io/badge/GitHub-Victortascaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
+Se você precisa de alguém que liga **Cloud + IaC + Automação** sem perder o chão da infraestrutura, abre um chamado 👇
 
 <div align="center">
 
-```text
-$ whoami
-victor · cloud & automation
-$ uptime
-sempre construindo o próximo playbook
-```
+<a href="https://www.linkedin.com/in/victor-tasca">
+  <img src="https://img.shields.io/badge/Contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Victortascaa&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victortascaa&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top languages" />
+
+<br/>
+
+```text
+$ tail -f victor.log
+[OK] sempre construindo o próximo playbook
+```
 
 </div>
