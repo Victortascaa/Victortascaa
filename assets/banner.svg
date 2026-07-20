@@ -1,0 +1,26 @@
+<svg width="700" height="150" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="150" rx="10" fill="#0D1117"/>
+  <rect x="1" y="1" width="698" height="148" rx="9" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="24" r="6" fill="#27c93f"/>
+  <text x="340" y="28" font-family="Consolas, Monaco, monospace" font-size="12" fill="#8b949e" text-anchor="middle">victor@status-page: ~</text>
+  <line x1="0" y1="40" x2="700" y2="40" stroke="#30363d" stroke-width="1"/>
+
+  <text x="24" y="68" font-family="Consolas, Monaco, monospace" font-size="15" fill="#58A6FF">$ status --check victor-tasca</text>
+
+  <circle cx="30" cy="92" r="4" fill="#3fb950"/>
+  <text x="42" y="97" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c9d1d9">status: operational</text>
+
+  <circle cx="30" cy="114" r="4" fill="#3fb950"/>
+  <text x="42" y="119" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c9d1d9">uptime: 9 anos em produção</text>
+
+  <circle cx="330" cy="92" r="4" fill="#3fb950"/>
+  <text x="342" y="97" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c9d1d9">incidents: 0 ambientes derrubados</text>
+
+  <circle cx="330" cy="114" r="4" fill="#58A6FF"/>
+  <text x="342" y="119" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c9d1d9">deploy: cloud + iac + automação</text>
+
+  <text x="24" y="138" font-family="Consolas, Monaco, monospace" font-size="14" fill="#58A6FF">$ _<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></text>
+</svg>

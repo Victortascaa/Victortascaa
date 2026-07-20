@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=status%3A+operational;uptime%3A+9+anos+em+produção;incident+count%3A+0+ambientes+derrubados;deploy%3A+cloud+%2B+iac+%2B+automação" alt="typing" />
+<img src="./assets/banner.svg" alt="status: operational" width="700" />
 
 <br/>
 
@@ -79,17 +79,16 @@ timeline
 
 ## 🚀 Deployments em destaque
 
-<div align="center">
-<a href="https://github.com/Victortascaa/projeto_noticias_telegram">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=projeto_noticias_telegram&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
-</a>
-<a href="https://github.com/Victortascaa/vaultscore-mvp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=vaultscore-mvp&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
-</a>
-<a href="https://github.com/Victortascaa/aether-empires">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victortascaa&repo=aether-empires&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="120" />
-</a>
-</div>
+| Repositório | Descrição |
+|---|---|
+| [**projeto_noticias_telegram**](https://github.com/Victortascaa/projeto_noticias_telegram) | Scraping + monitoramento + Telegram para rádios FM (Python) |
+| [**vaultscore-mvp**](https://github.com/Victortascaa/vaultscore-mvp) | Experimento em TypeScript |
+| [**aether-empires**](https://github.com/Victortascaa/aether-empires) | Experimento em TypeScript |
+| [**Betel-APP**](https://github.com/Victortascaa/Betel-APP) | App React Native (projeto de faculdade) |
+| [**Trabalho-de-Extens-o-Python01**](https://github.com/Victortascaa/Trabalho-de-Extens-o-Python01) | App voluntário para pequena comerciante |
+
+<br/>
+
 ## 💬 Incident response policy
 
 ```text
@@ -105,11 +104,10 @@ Se você precisa de alguém que liga **Cloud + IaC + Automação** sem perder o 
 <a href="https://www.linkedin.com/in/victor-tasca">
   <img src="https://img.shields.io/badge/Contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Victortascaa&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victortascaa&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top languages" />
+&nbsp;
+<a href="https://github.com/Victortascaa">
+  <img src="https://img.shields.io/badge/GitHub-Victortascaa-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/>
 
