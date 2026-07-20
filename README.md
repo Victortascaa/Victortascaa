@@ -81,11 +81,11 @@ timeline
 
 | Repositório | Descrição |
 |---|---|
-| [**projeto_noticias_telegram**](https://github.com/Victortascaa/projeto_noticias_telegram) | Scraping + monitoramento + Telegram para rádios FM (Python) |
-| [**vaultscore-mvp**](https://github.com/Victortascaa/vaultscore-mvp) | Experimento em TypeScript |
-| [**aether-empires**](https://github.com/Victortascaa/aether-empires) | Experimento em TypeScript |
-| [**Betel-APP**](https://github.com/Victortascaa/Betel-APP) | App React Native (projeto de faculdade) |
-| [**Trabalho-de-Extens-o-Python01**](https://github.com/Victortascaa/Trabalho-de-Extens-o-Python01) | App voluntário para pequena comerciante |
+| [**fm-news-telegram**](https://github.com/Victortascaa/fm-news-telegram) | Monitoramento de notícias para rádios FM com scraping e entrega via Telegram |
+| [**vaultscore**](https://github.com/Victortascaa/vaultscore) | Aplicação web em Next.js e TypeScript |
+| [**aether-empires**](https://github.com/Victortascaa/aether-empires) | Aplicação web em React, TypeScript e Vite |
+| [**betel-work-orders**](https://github.com/Victortascaa/betel-work-orders) | App mobile (React Native/Expo) para ordens de serviço, estoque e inventário |
+| [**merchant-cashbook**](https://github.com/Victortascaa/merchant-cashbook) | Controle de receitas e despesas para pequenos negócios (Python) |
 
 <br/>
 
